@@ -24,6 +24,7 @@ render(
     render={(on, handleClick) => {
       return (
         <div style={styles}>
+          <p>Click below!</p>
           <Hello on={on} handleClick={handleClick} />
         </div>
       );
