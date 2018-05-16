@@ -1,2 +1,0 @@
-# PlayWithRenderProp
-Created with CodeSandbox
